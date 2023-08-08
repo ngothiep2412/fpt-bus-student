@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645891378843",
+    "firebase_url": "https://f-bus-system-default-rtdb.firebaseio.com",
+    "project_id": "f-bus-system",
+    "storage_bucket": "f-bus-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645891378843:android:c73c982c8961379806c03e",
+        "android_client_info": {
+          "package_name": "com.example.fbus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645891378843-lfqfde1ik3ol5monulnai7927jlb6nut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbus_app",
+            "certificate_hash": "7f6553753c0334cf09790e17a3f16f8d4c93f5d7"
+          }
+        },
+        {
+          "client_id": "645891378843-941b8opatoc5agrqsjum3h3oules7ghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOki0GmJFDc9tjSep5dvHzIzWus5Osva8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645891378843-3094u2il0rl5f50f4petjgqpvkn0llj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
